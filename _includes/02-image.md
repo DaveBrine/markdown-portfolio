@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![An X-Ray of a laptop circuit board](https://wallpapercave.com/wp/aTJ0UW5.jpg)
