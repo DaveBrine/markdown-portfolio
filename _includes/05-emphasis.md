@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* **Problem Solving
+* **Programming
+  * Languages
+    * *Python*
+    * *Java*
+    * *PHP*
+    * *JavaScript*
+    * *Assembly*
+* **Natural Languages
+* **Natural Deduction Logic
+ 
