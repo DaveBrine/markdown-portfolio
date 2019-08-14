@@ -1,11 +1,11 @@
-* **Problem Solving
-* **Programming
+* **Problem Solving**
+* **Programming**
   * Languages
     * *Python*
     * *Java*
     * *PHP*
     * *JavaScript*
     * *Assembly*
-* **Natural Languages
-* **Natural Deduction Logic
+* **Natural Languages**
+* **Natural Deduction Logic**
  
